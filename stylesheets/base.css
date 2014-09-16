@@ -246,7 +246,7 @@
 	/* Header */
 	#header {
 		background:url('../images/books_header.png') top center no-repeat;
-		background-size: cover;
+		/*background-size: cover;*/
 		min-height: 680px;
 		width: 100%;
 	}
@@ -269,33 +269,33 @@
   height: 30px;
 }
 
-#header nav {
+/*#header nav {
 	text-align: right;
 	margin-top: 2em; 
-}
+}*/
 
-#header nav ul li {
+/*#header nav ul li {
 	display: inline-block;
-}
+}*/
 
-#header nav ul li a {
+/*#header nav ul li a {
 	color: #fff;
 	text-transform: uppercase;
 	text-decoration: none;
 	padding: 0.75em 2em;
-}
+}*/
 
-#header nav ul li a.btn {
+/*#header nav ul li a.btn {
 	-moz-border-radius: 8px;
 	-webkit-border-radius: 8px;
 	border-radius: 8px;
 	border: 2px solid #fff;
-}
+}*/
 
- #header nav ul li a.btn:hover {
+/* #header nav ul li a.btn:hover {
   background:#fff;
   color:#009be8;
- }
+ }*/
 
 #header .headertext {
 	margin-top: 1em;
